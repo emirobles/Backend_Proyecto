@@ -1,0 +1,60 @@
+[
+    {
+        "id": "1",
+        "nombre": "gorro",
+        "descripcion": "de ranita",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_751822-MLU51024052056_082022-V.jpg",
+        "precio": "350",
+        "stock": 420
+    },
+    {
+        "id": 2,
+        "nombre": "pelota",
+        "descripcion": "con plumas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_875231-MLA47160687346_082021-O.jpg",
+        "precio": "250",
+        "stock": 420
+    },
+    {
+        "id": 3,
+        "nombre": "bebedero",
+        "descripcion": "de agua",
+        "foto": "https://leocan.com.ar/wp-content/uploads/2021/09/Fuente-Bebedero-para-gatos-flor-3-litros-luz-led.jpg",
+        "precio": "5000",
+        "stock": 420
+    },
+    {
+        "id": 4,
+        "nombre": "mesita",
+        "descripcion": "con platitos",
+        "foto": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/458/716/products/whatsapp-image-2022-05-11-at-8-10-07-pm-11-2703fe7ef64fb4b4fe16523117848546-640-0.jpeg",
+        "precio": "3000",
+        "stock": 420
+    },
+    {
+        "id": 5,
+        "nombre": "gorro",
+        "descripcion": "de cumpleaños",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_y_fOJN1y3wMH1rljWjW9iKI4ml1zHjZU1jroT16vQz56IDHKtl98ATE9ImVQiB3aOqc&usqp=CAU",
+        "precio": "200",
+        "stock": 420
+    },
+    {
+        "id": "6",
+        "nombre": "caja",
+        "descripcion": "misteriosa",
+        "foto": "https://i.etsystatic.com/29009386/r/il/de043d/3007082692/il_570xN.3007082692_hf33.jpg",
+        "precio": 45000,
+        "stock": "69"
+    },
+    {
+        "id": 7,
+        "nombre": "caja",
+        "descripcion": "misteriosa",
+        "foto": "https://i.etsystatic.com/29009386/r/il/de043d/3007082692/il_570xN.3007082692_hf33.jpg",
+        "precio": 45000,
+        "stock": 420,
+        "timestamp": 1662527100577,
+        "codigo": "sorpresa"
+    }
+]
